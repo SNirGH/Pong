@@ -1,0 +1,10 @@
+build/
+.cache/
+
+*.o
+*.out
+*.exe
+*.class
+*.log
+*.dSYM/
+*.pdb
